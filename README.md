@@ -1,4 +1,3 @@
-# Bouquet-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -26,10 +25,10 @@
     </style>
 </head>
 <body>
-    <h1>🌹 A Bouquet for You! 🌹</h1>
+    <h1>🌹A Bouquet for You!🌹</h1>
     <p> Keep on making lovely memes and make me laugh !</p>
     <img src="https://drive.google.com/uc?export=view&id=14TAxulhausktlwbms2Cg9qIYtCgjmXU-" 
-         alt="Rose Bouquet" class="bouquet">
+        class="bouquet">
     <p>With love and best wishes ❤️</p>
 </body>
 </html>
