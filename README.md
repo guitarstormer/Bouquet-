@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Virtual Rose Bouquet</title>
+    <title> Rose Bouquet</title>
     <style>
         body {
             text-align: center;
@@ -26,8 +26,8 @@
     </style>
 </head>
 <body>
-    <h1>🌹 A Beautiful Rose Bouquet for You! 🌹</h1>
-    <p>Sending love and warmth your way!</p>
+    <h1>🌹 A Bouquet for You! 🌹</h1>
+    <p> Keep on making lovely memes and make me laugh !</p>
     <img src="https://drive.google.com/uc?export=view&id=14TAxulhausktlwbms2Cg9qIYtCgjmXU-" 
          alt="Rose Bouquet" class="bouquet">
     <p>With love and best wishes ❤️</p>
