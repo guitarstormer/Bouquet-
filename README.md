@@ -1,17 +1,17 @@
-# Bouquet-VirtualrtualDOCTYPE html>
+# Bouquet-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Virtual Flower Bouquet</title>
+    <title>Virtual Rose Bouquet</title>
     <style>
         body {
             text-align: center;
-            background-color: #ffe6f2;
+            background-color: #fff0f5;
             font-family: Arial, sans-serif;
         }
         h1 {
-            color: #d63384;
+            color: #c2185b;
         }
         .bouquet {
             width: 300px;
@@ -24,9 +24,10 @@
     </style>
 </head>
 <body>
-    <h1>🌸 A Special Bouquet for You! 🌸</h1>
-    <p>Here’s a little surprise to brighten your day!</p>
-    <img src="https://source.unsplash.com/300x300/?flower,bouquet" alt="Flower Bouquet" class="bouquet">
-    <p>Sent with love 💖</p>
+    <h1>🌹 A Beautiful Rose Bouquet for You! 🌹</h1>
+    <p>Sending love and warmth your way!</p>
+    <img src="https://source.unsplash.com/300x300/?rose,bouquet" alt="Rose Bouquet" class="bouquet">
+    <p>With love and best wishes ❤️</p>
 </body>
 </html>
+
