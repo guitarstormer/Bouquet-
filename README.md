@@ -16,6 +16,8 @@
         .bouquet {
             width: 300px;
             animation: fadeIn 2s ease-in-out;
+            border-radius: 10px;
+            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
         }
         @keyframes fadeIn {
             from { opacity: 0; transform: scale(0.8); }
@@ -26,8 +28,8 @@
 <body>
     <h1>🌹 A Beautiful Rose Bouquet for You! 🌹</h1>
     <p>Sending love and warmth your way!</p>
-    <img src="https://source.unsplash.com/300x300/?rose,bouquet" alt="Rose Bouquet" class="bouquet">
+    <img src="https://drive.google.com/uc?export=view&id=14TAxulhausktlwbms2Cg9qIYtCgjmXU-" 
+         alt="Rose Bouquet" class="bouquet">
     <p>With love and best wishes ❤️</p>
 </body>
 </html>
-
